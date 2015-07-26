@@ -1,0 +1,8 @@
+Origin: kalurth
+Label: kalurths repo
+Suite: stable
+Version: 1.0
+Codename: kalurthrepo
+Architectures: iphoneos-arm
+Components: main
+Description: JUST STUFF TBH
